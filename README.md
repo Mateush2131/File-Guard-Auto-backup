@@ -36,8 +36,8 @@ watchdog-backup автоматически сохраняет копии все�
 
 | Процесс копирования | Результат в папке backup |
 |---------------------|-------------------------|
-<img width="1308" height="466" alt="image" src="https://github.com/user-attachments/assets/2a0d5cea-b037-4a04-8321-88ac0265a186" />
-<img width="941" height="491" alt="image" src="https://github.com/user-attachments/assets/735b3a99-fe77-4fd7-bda1-7f26c800e2c1" />
+<img width="1308" height="466" alt="image" src="https://github.com/user-attachments/assets/2a0d5cea-b037-4a04-8321-88ac0265a186" /><img width="941" height="491" alt="image" src="https://github.com/user-attachments/assets/735b3a99-fe77-4fd7-bda1-7f26c800e2c1" />
+
 
 
 
