@@ -55,7 +55,7 @@ watchdog-backup автоматически сохраняет копии все�
 
 ### Для разработчиков (из исходников)
 ```bash
-git clone https://github.com/username/watchdog-backup
+git clone https://github.com/Mateush2131/File-Guard-Auto-backup
 cd watchdog-backup
 pip install watchdog
 python run.py /путь/к/твоей/папке
